@@ -14,9 +14,3 @@
         }
     }
 }
-{
-  "repositories": [{
-    "type": "composer",
-    "url": "https://packagist.magentomobileshop.com/repo"
-  }]
-}
