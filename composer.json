@@ -4,12 +4,6 @@
     "type": "magento2-module",
     "version": "0.7.6",
     "license": "OSL-3.0",
-    "autoload": {
-        "files": [ "registration.php" ],
-        "psr-4": {
-            "Taxjar\\SalesTax\\": ""
-        }
-    },
     "repositories": [{
     "type": "composer",
     "url": "https://packagist.magentomobileshop.com/repo"
