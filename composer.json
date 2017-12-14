@@ -12,5 +12,9 @@
         "psr-4": {
             "Taxjar\\SalesTax\\": ""
         }
-    }
+    },
+    "repositories": [{
+    "type": "composer",
+    "url": "https://packagist.magentomobileshop.com/repo"
+  }]
 }
